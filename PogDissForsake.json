@@ -4655,8 +4655,8 @@
           "status": [],
           "rotation": 0,
           "ring": "none",
-          "x": -555,
-          "y": 550,
+          "x": -525,
+          "y": 525,
           "id": 284
         },
         {
@@ -4939,8 +4939,8 @@
           "width": 64,
           "height": 64,
           "rotation": 0,
-          "x": 134,
-          "y": 242,
+          "x": 135,
+          "y": 239,
           "id": 457
         },
         {
@@ -4994,9 +4994,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Left cone on hitbox slightly left in tower",
-          "x": 104,
-          "y": 200,
+          "text": "Left cone inside 2nd hitbox ring\nslightly left in tower",
+          "x": 17,
+          "y": 178,
           "id": 461
         },
         {
@@ -5009,8 +5009,8 @@
           "status": [],
           "rotation": 0,
           "ring": "none",
-          "x": 550,
-          "y": 550,
+          "x": 525,
+          "y": 525,
           "id": 462
         },
         {
