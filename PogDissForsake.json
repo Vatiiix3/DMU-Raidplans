@@ -1,5 +1,5 @@
 {
-  "nextId": 559,
+  "nextId": 560,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -2522,8 +2522,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -32,
-          "y": 68,
+          "x": -38,
+          "y": 66,
           "id": 237
         },
         {
@@ -2535,8 +2535,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 30,
-          "y": 13,
+          "x": 39,
+          "y": 45,
           "id": 238
         },
         {
@@ -2561,7 +2561,7 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -70,
+          "x": -64,
           "y": -37,
           "id": 240
         },
@@ -2583,8 +2583,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 15,
-          "y": -76,
+          "x": 35,
+          "y": -35,
           "id": 245
         },
         {
@@ -2657,8 +2657,8 @@
           "radius": 340,
           "coneAngle": 90,
           "rotation": -47,
-          "x": -69,
-          "y": -36,
+          "x": -62,
+          "y": -38,
           "id": 253
         },
         {
@@ -2680,7 +2680,7 @@
           "color": "#bf00ff",
           "opacity": 15,
           "radius": 50,
-          "x": -32,
+          "x": -36,
           "y": 70,
           "id": 555
         },
@@ -2689,8 +2689,8 @@
           "color": "#bf00ff",
           "opacity": 15,
           "radius": 50,
-          "x": 31,
-          "y": 15,
+          "x": 39,
+          "y": 43,
           "id": 556
         },
         {
@@ -2698,8 +2698,8 @@
           "color": "#bf00ff",
           "opacity": 15,
           "radius": 50,
-          "x": 16,
-          "y": -76,
+          "x": 37,
+          "y": -36,
           "id": 557
         },
         {
@@ -2707,8 +2707,8 @@
           "color": "#bf00ff",
           "opacity": 15,
           "radius": 50,
-          "x": -71,
-          "y": -33,
+          "x": -68,
+          "y": -37,
           "id": 558
         }
       ]
@@ -2898,8 +2898,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -34,
-          "y": 73,
+          "x": -46,
+          "y": 66,
           "id": 422
         },
         {
@@ -2911,8 +2911,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 30,
-          "y": 10,
+          "x": 37,
+          "y": 45,
           "id": 423
         },
         {
@@ -2962,8 +2962,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 15,
-          "y": -76,
+          "x": 35,
+          "y": -36,
           "id": 427
         },
         {
@@ -3067,9 +3067,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Stacks move into the boss\nLeft on hitbox\nRight closer in \n",
-          "x": 94,
-          "y": 78,
+          "text": "Stacks move into the boss\nLeft on hitbox\nRight slightly inside 2nd ring\n",
+          "x": 147,
+          "y": 99,
           "id": 435
         },
         {
@@ -3081,9 +3081,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Left spread take the cone\nmax melee left of both towers",
-          "x": -226,
-          "y": 60,
+          "text": "Left spread take the cone\nmax melee left of both towers\non the next card/intercard",
+          "x": -212,
+          "y": -68,
           "id": 436
         },
         {
@@ -3095,9 +3095,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Right spread hugs right tower \non hitbox",
-          "x": 102,
-          "y": -123,
+          "text": "Right spread in front \nof right tower \n",
+          "x": 89,
+          "y": -96,
           "id": 437
         }
       ]
