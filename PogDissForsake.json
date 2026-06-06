@@ -1,5 +1,5 @@
 {
-  "nextId": 562,
+  "nextId": 592,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -83,7 +83,7 @@
           "coneAngle": 90,
           "rotation": 0,
           "x": -340,
-          "y": -190,
+          "y": -181,
           "id": 497
         },
         {
@@ -229,7 +229,7 @@
           "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "Left tower\nStack",
+          "text": "Right Tower\nLeft stack",
           "x": -226,
           "y": 350,
           "id": 509
@@ -257,7 +257,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "boss clone\nunder boss left",
+          "text": "boss clone\ninfront of tower",
           "x": 42,
           "y": 350,
           "id": 513
@@ -299,7 +299,7 @@
           "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "Right tower\nStack",
+          "text": "Right tower\nRight stack",
           "x": -225,
           "y": 250,
           "id": 517
@@ -366,150 +366,10 @@
           "type": "text",
           "align": "center",
           "fontSize": 20,
-          "color": "#00d5e8",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Left tower\nSpread",
-          "x": -225,
-          "y": 150,
-          "id": 522
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "get new\nAssignement",
-          "x": -106,
-          "y": 150,
-          "id": 523
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "bait cone\nleft of both towers",
-          "x": 43,
-          "y": 150,
-          "id": 524
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "bait clones",
-          "x": 192,
-          "y": 150,
-          "id": 525
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "start of new\nAssignement",
-          "x": 327,
-          "y": 150,
-          "id": 526
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#00d5e8",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Right tower\nSpread",
-          "x": -224,
-          "y": -50,
-          "id": 527
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "get new\nAssignement",
-          "x": -105,
-          "y": -50,
-          "id": 528
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "boss clone\ninbetween towers",
-          "x": 44,
-          "y": -50,
-          "id": 529
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "bait clones",
-          "x": 193,
-          "y": -50,
-          "id": 530
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "start of new\nAssignement",
-          "x": 328,
-          "y": -50,
-          "id": 531
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Soak left",
+          "text": "Soak right",
           "x": -227,
           "y": 50,
           "id": 532
@@ -523,7 +383,7 @@
           "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "Left tower\nSpread",
+          "text": "Right tower\nSpread left",
           "x": -108,
           "y": 50,
           "id": 533
@@ -646,10 +506,10 @@
           "type": "text",
           "align": "center",
           "fontSize": 20,
-          "color": "#ffffff",
+          "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "Soak Right",
+          "text": "Left tower \nRight cone",
           "x": -233,
           "y": -330,
           "id": 542
@@ -660,10 +520,10 @@
           "type": "text",
           "align": "center",
           "fontSize": 20,
-          "color": "#00d5e8",
+          "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Right tower\nRight cone",
+          "text": "get new\nAssignement",
           "x": -114,
           "y": -330,
           "id": 543
@@ -677,7 +537,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "get new\nAssignement",
+          "text": "Bait cone\nmax melee",
           "x": 35,
           "y": -330,
           "id": 544
@@ -716,10 +576,10 @@
           "type": "text",
           "align": "center",
           "fontSize": 20,
-          "color": "#ffffff",
+          "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "Soak Right",
+          "text": "Left tower \nLeft cone",
           "x": -229,
           "y": -240,
           "id": 547
@@ -730,10 +590,10 @@
           "type": "text",
           "align": "center",
           "fontSize": 20,
-          "color": "#00d5e8",
+          "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Right tower\nstraight out",
+          "text": "get new\nAssignement",
           "x": -110,
           "y": -240,
           "id": 548
@@ -747,7 +607,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "get new\nAssignement",
+          "text": "boss clone\nunder boss left",
           "x": 39,
           "y": -240,
           "id": 549
@@ -779,6 +639,146 @@
           "x": 323,
           "y": -240,
           "id": 551
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Soak left",
+          "x": -227,
+          "y": 150,
+          "id": 582
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Left tower\nSpread",
+          "x": -108,
+          "y": 150,
+          "id": 583
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "get new\nAssignement",
+          "x": 41,
+          "y": 150,
+          "id": 584
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "bait clones",
+          "x": 190,
+          "y": 150,
+          "id": 585
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "start of new\nAssignement",
+          "x": 325,
+          "y": 150,
+          "id": 586
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Soak right",
+          "x": -226.00000000000006,
+          "y": -52,
+          "id": 587
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Right tower\nSpread right",
+          "x": -107,
+          "y": -52,
+          "id": 588
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "get new\nAssignement",
+          "x": 42,
+          "y": -52,
+          "id": 589
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "bait clones",
+          "x": 191,
+          "y": -52,
+          "id": 590
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "start of new\nAssignement",
+          "x": 326,
+          "y": -52,
+          "id": 591
         }
       ]
     },
@@ -1404,8 +1404,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -112,
-          "y": -113,
+          "x": 17,
+          "y": -91,
           "id": 96
         },
         {
@@ -1416,9 +1416,9 @@
           "status": [],
           "width": 32,
           "height": 32,
-          "rotation": 0,
-          "x": 111,
-          "y": -115,
+          "rotation": 2,
+          "x": 145,
+          "y": -89,
           "id": 97
         },
         {
@@ -1430,8 +1430,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -86,
-          "y": -37,
+          "x": 43,
+          "y": -77,
           "id": 98
         },
         {
@@ -1443,8 +1443,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 82,
-          "y": -36,
+          "x": 124,
+          "y": -74,
           "id": 99
         },
         {
@@ -1456,62 +1456,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -45,
-          "y": -27,
+          "x": 147,
+          "y": -64,
           "id": 100
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -32,
-          "y": -41,
-          "id": 101
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 70,
-          "x": -86,
-          "y": -34,
-          "id": 102
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 60,
-          "x": -111,
-          "y": -115,
-          "id": 103
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 70,
-          "x": 80,
-          "y": -32,
-          "id": 104,
-          "positionParentId": 85,
-          "pinned": false
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 61,
-          "x": 112,
-          "y": -115,
-          "id": 105
         },
         {
           "opacity": 100,
@@ -1522,8 +1469,43 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 47,
-          "y": -23,
+          "x": -80,
+          "y": -60,
+          "id": 101
+        },
+        {
+          "count": 1,
+          "type": "stack",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 70,
+          "x": 42,
+          "y": -74,
+          "id": 102
+        },
+        {
+          "count": 1,
+          "type": "stack",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 70,
+          "x": 124,
+          "y": -74,
+          "id": 104,
+          "positionParentId": 85,
+          "pinned": false
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 18,
+          "y": -68,
           "id": 106
         },
         {
@@ -1535,8 +1517,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 30,
-          "y": -35,
+          "x": -79,
+          "y": -100,
           "id": 107
         },
         {
@@ -1576,367 +1558,32 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Towers will always be shown south \nbut they'll rotate cw or ccw each set",
-          "x": 8,
-          "y": 188,
+          "text": "Towers are always new south",
+          "x": 1,
+          "y": 230,
           "id": 223
-        }
-      ]
-    },
-    {
-      "objects": [
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ff0000",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "ring": "dir",
-          "x": 0,
-          "y": 0,
-          "id": 171
         },
         {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark A",
-          "image": "/marker/waymark_a.png",
-          "shape": "circle",
-          "color": "#f13b66",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 0,
-          "y": 125,
-          "id": 172
-        },
-        {
-          "type": "tower",
-          "color": "#bae3ff",
-          "opacity": 35,
-          "radius": 55,
-          "count": 1,
-          "x": -80,
-          "y": -80,
-          "id": 173
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 1",
-          "image": "/marker/waymark_1.png",
-          "shape": "square",
-          "color": "#f13b66",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": -88,
-          "y": 88,
-          "id": 174
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 2",
-          "image": "/marker/waymark_2.png",
-          "shape": "square",
-          "color": "#e1dc5d",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 88,
-          "y": 88,
-          "id": 175
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark B",
-          "image": "/marker/waymark_b.png",
-          "shape": "circle",
-          "color": "#e1dc5d",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 125,
-          "y": 0,
-          "id": 176
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark C",
-          "image": "/marker/waymark_c.png",
-          "shape": "circle",
-          "color": "#65b3ea",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 0,
-          "y": -125,
-          "id": 177
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark D",
-          "image": "/marker/waymark_d.png",
-          "shape": "circle",
-          "color": "#e291e6",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": -125,
-          "y": 0,
-          "id": 178
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 3",
-          "image": "/marker/waymark_3.png",
-          "shape": "square",
-          "color": "#65b3ea",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 88,
-          "y": -88,
-          "id": 179
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 4",
-          "image": "/marker/waymark_4.png",
-          "shape": "square",
-          "color": "#e291e6",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": -88,
-          "y": -88,
-          "id": 180
-        },
-        {
-          "type": "tower",
-          "color": "#bae3ff",
-          "opacity": 35,
-          "radius": 55,
-          "count": 1,
-          "x": 80,
-          "y": -80,
-          "id": 181,
-          "pinned": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -101,
-          "y": -116,
-          "id": 182,
-          "hide": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/SCH.png",
-          "name": "Scholar",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 79,
-          "y": -122,
-          "id": 183,
-          "hide": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/PLD.png",
-          "name": "Paladin",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -63,
-          "y": -40,
-          "id": 184,
-          "hide": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DNC.png",
-          "name": "Dancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 58,
-          "y": -46,
-          "id": 185,
-          "hide": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/WHM.png",
-          "name": "White Mage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -58,
-          "y": -20,
-          "id": 186
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -40,
-          "y": -30,
-          "id": 187
-        },
-        {
-          "count": 1,
-          "type": "stack",
+          "type": "cone",
           "color": "#bf00ff",
           "opacity": 35,
-          "radius": 70,
-          "x": -82,
-          "y": -30,
-          "id": 188
+          "radius": 300,
+          "coneAngle": 90,
+          "rotation": 2,
+          "x": -79,
+          "y": -98,
+          "id": 564
         },
         {
-          "type": "circle",
+          "type": "cone",
           "color": "#bf00ff",
           "opacity": 35,
-          "radius": 60,
-          "x": -100,
-          "y": -120,
-          "id": 189,
-          "hide": true
-        },
-        {
-          "count": 1,
-          "type": "stack",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 70,
-          "x": 78,
-          "y": -31,
-          "id": 190,
-          "positionParentId": 171,
-          "pinned": false
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 60,
-          "x": 80,
-          "y": -124,
-          "id": 191,
-          "hide": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 58,
-          "y": -21,
-          "id": 192
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/NIN.png",
-          "name": "Ninja",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 39,
-          "y": -35,
-          "id": 193
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Odd sets aka 1/3/5/7",
-          "x": 0,
-          "y": 328,
-          "id": 194
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Middle spread\nLeft cone",
-          "x": -85,
-          "y": 38,
-          "id": 195
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Middle cone\nRight cone",
-          "x": 73,
-          "y": 38,
-          "id": 220
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Soak the stack on the same side\nas you are gonna resolve youre tower",
-          "x": 0,
-          "y": 193,
-          "id": 221
+          "radius": 319,
+          "coneAngle": 90,
+          "rotation": 180,
+          "x": -78,
+          "y": -71,
+          "id": 565
         }
       ]
     },
@@ -2092,27 +1739,27 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
+          "image": "/actor/DRG.png",
+          "name": "Dragoon",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -106,
-          "y": -113,
+          "x": -100,
+          "y": -62,
           "id": 142
         },
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/SCH.png",
-          "name": "Scholar",
+          "image": "/actor/NIN.png",
+          "name": "Ninja",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 112,
-          "y": -113,
+          "x": -59,
+          "y": -94,
           "id": 143
         },
         {
@@ -2124,8 +1771,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -82,
-          "y": -39,
+          "x": 39,
+          "y": -80,
           "id": 144
         },
         {
@@ -2137,8 +1784,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 82,
-          "y": -41,
+          "x": 121,
+          "y": -78,
           "id": 145
         },
         {
@@ -2207,8 +1854,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "Left",
-          "x": -106,
-          "y": -152,
+          "x": -113,
+          "y": -155,
           "id": 158
         },
         {
@@ -2221,8 +1868,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "Right",
-          "x": 110,
-          "y": -154,
+          "x": 124,
+          "y": -153,
           "id": 159
         },
         {
@@ -2284,8 +1931,8 @@
           "color": "#bf00ff",
           "opacity": 35,
           "radius": 25,
-          "x": -83,
-          "y": -38,
+          "x": -99,
+          "y": -61,
           "id": 166
         },
         {
@@ -2293,8 +1940,8 @@
           "color": "#bf00ff",
           "opacity": 35,
           "radius": 27,
-          "x": 113,
-          "y": -114,
+          "x": 122,
+          "y": -79,
           "id": 167
         },
         {
@@ -2304,8 +1951,8 @@
           "radius": 46,
           "coneAngle": 90,
           "rotation": 0,
-          "x": 80,
-          "y": -67,
+          "x": 42,
+          "y": -107,
           "id": 168,
           "pinned": false
         },
@@ -2316,11 +1963,10 @@
           "radius": 46,
           "coneAngle": 90,
           "rotation": 0,
-          "x": 1,
-          "y": -25,
+          "x": -58,
+          "y": -121,
           "id": 169,
-          "pinned": false,
-          "positionParentId": 142
+          "pinned": false
         },
         {
           "stroke": "#40352c",
@@ -2332,8 +1978,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "ATTENTION:\nThese will only go into effect at the next odd set.\nFor the very next set you'll be doing baits still",
-          "x": 2,
-          "y": 214,
+          "x": 8,
+          "y": 195,
           "id": 489
         }
       ]
@@ -2351,7 +1997,7 @@
           "rotation": 0,
           "ring": "dir",
           "x": 0,
-          "y": 0,
+          "y": 8,
           "id": 224
         },
         {
@@ -2490,67 +2136,15 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -127,
-          "y": -1,
-          "id": 235
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 123,
-          "y": -100,
-          "id": 236
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/PLD.png",
-          "name": "Paladin",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -51,
-          "y": 62,
-          "id": 237
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DNC.png",
-          "name": "Dancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 40,
-          "y": 54,
-          "id": 238
-        },
-        {
-          "opacity": 100,
-          "type": "party",
           "image": "/actor/WHM.png",
           "name": "White Mage",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -116,
-          "y": -113,
-          "id": 239
+          "x": 48,
+          "y": -108,
+          "id": 235
         },
         {
           "opacity": 100,
@@ -2562,7 +2156,59 @@
           "height": 32,
           "rotation": 0,
           "x": -63,
-          "y": -38,
+          "y": -36,
+          "id": 236
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 39,
+          "y": -28,
+          "id": 237
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/DNC.png",
+          "name": "Dancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 60,
+          "y": 64,
+          "id": 238
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -101,
+          "y": -118,
+          "id": 239
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/DRG.png",
+          "name": "Dragoon",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -53,
+          "y": 64,
           "id": 240
         },
         {
@@ -2570,8 +2216,8 @@
           "color": "#bf00ff",
           "opacity": 35,
           "radius": 60,
-          "x": -115,
-          "y": -114,
+          "x": -98,
+          "y": -120,
           "id": 242
         },
         {
@@ -2583,8 +2229,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 42,
-          "y": -30,
+          "x": 112,
+          "y": -47,
           "id": 245
         },
         {
@@ -2596,8 +2242,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 133,
-          "y": -83,
+          "x": -125,
+          "y": -1,
           "id": 246
         },
         {
@@ -2629,39 +2275,6 @@
           "id": 248
         },
         {
-          "type": "cone",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 389,
-          "coneAngle": 90,
-          "rotation": -146,
-          "x": 134,
-          "y": -86,
-          "id": 251
-        },
-        {
-          "type": "cone",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 414,
-          "coneAngle": 90,
-          "rotation": 35,
-          "x": 123,
-          "y": -102,
-          "id": 252
-        },
-        {
-          "type": "cone",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 344,
-          "coneAngle": 90,
-          "rotation": -57,
-          "x": -62,
-          "y": -38,
-          "id": 253
-        },
-        {
           "stroke": "#40352c",
           "style": "outline",
           "type": "text",
@@ -2678,427 +2291,67 @@
         {
           "type": "circle",
           "color": "#bf00ff",
-          "opacity": 15,
-          "radius": 50,
-          "x": -51,
-          "y": 63,
-          "id": 555
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 15,
-          "radius": 50,
-          "x": 37,
-          "y": 56,
-          "id": 556
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 15,
-          "radius": 50,
-          "x": 44,
-          "y": -30,
-          "id": 557
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 15,
-          "radius": 50,
-          "x": -63,
-          "y": -40,
-          "id": 558
-        }
-      ]
-    },
-    {
-      "objects": [
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ff0000",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "ring": "dir",
-          "x": 0,
-          "y": 0,
-          "id": 409
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark A",
-          "image": "/marker/waymark_a.png",
-          "shape": "circle",
-          "color": "#f13b66",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 0,
-          "y": 125,
-          "id": 410
-        },
-        {
-          "type": "tower",
-          "color": "#bae3ff",
           "opacity": 35,
-          "radius": 55,
-          "count": 1,
-          "x": -80,
-          "y": -80,
-          "id": 411
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 1",
-          "image": "/marker/waymark_1.png",
-          "shape": "square",
-          "color": "#f13b66",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": -88,
-          "y": 88,
-          "id": 412
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 2",
-          "image": "/marker/waymark_2.png",
-          "shape": "square",
-          "color": "#e1dc5d",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 88,
-          "y": 88,
-          "id": 413
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark B",
-          "image": "/marker/waymark_b.png",
-          "shape": "circle",
-          "color": "#e1dc5d",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 125,
-          "y": 0,
-          "id": 414
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark C",
-          "image": "/marker/waymark_c.png",
-          "shape": "circle",
-          "color": "#65b3ea",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 0,
-          "y": -125,
-          "id": 415
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark D",
-          "image": "/marker/waymark_d.png",
-          "shape": "circle",
-          "color": "#e291e6",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": -125,
-          "y": 0,
-          "id": 416
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 3",
-          "image": "/marker/waymark_3.png",
-          "shape": "square",
-          "color": "#65b3ea",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": 88,
-          "y": -88,
-          "id": 417
-        },
-        {
-          "opacity": 100,
-          "type": "marker",
-          "name": "Waymark 4",
-          "image": "/marker/waymark_4.png",
-          "shape": "square",
-          "color": "#e291e6",
-          "width": 42,
-          "height": 42,
-          "rotation": 0,
-          "x": -88,
-          "y": -88,
-          "id": 418
-        },
-        {
-          "type": "tower",
-          "color": "#bae3ff",
-          "opacity": 35,
-          "radius": 55,
-          "count": 1,
-          "x": 80,
-          "y": -80,
-          "id": 419,
-          "pinned": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -126,
-          "y": 0,
-          "id": 420
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 114,
-          "y": -115,
-          "id": 421,
-          "hide": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/PLD.png",
-          "name": "Paladin",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -42,
-          "y": 70,
-          "id": 422
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DNC.png",
-          "name": "Dancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 43,
-          "y": 53,
-          "id": 423
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/WHM.png",
-          "name": "White Mage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -127,
-          "y": -99,
-          "id": 424,
-          "hide": true
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -70,
-          "y": -37,
-          "id": 425,
-          "hide": true
+          "radius": 60,
+          "x": 112,
+          "y": -47,
+          "id": 572
         },
         {
           "type": "circle",
           "color": "#bf00ff",
           "opacity": 35,
           "radius": 60,
-          "x": -124,
-          "y": -98,
-          "id": 426,
-          "hide": true
+          "x": 46,
+          "y": -111,
+          "id": 573
         },
         {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/SCH.png",
-          "name": "Scholar",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 42,
-          "y": -30,
-          "id": 427
+          "type": "circle",
+          "color": "#bf00ff",
+          "opacity": 20,
+          "radius": 60,
+          "x": -64,
+          "y": -39,
+          "id": 574
         },
         {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/NIN.png",
-          "name": "Ninja",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 123,
-          "y": -96,
-          "id": 428,
-          "hide": true
+          "type": "circle",
+          "color": "#bf00ff",
+          "opacity": 20,
+          "radius": 60,
+          "x": -52,
+          "y": 66,
+          "id": 575
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Even sets aka 2/4/6/8",
-          "x": 0,
-          "y": 328,
-          "id": 429
+          "type": "circle",
+          "color": "#bf00ff",
+          "opacity": 20,
+          "radius": 60,
+          "x": 64,
+          "y": 65,
+          "id": 576
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "",
-          "x": -205,
-          "y": -22,
-          "id": 430
+          "type": "circle",
+          "color": "#bf00ff",
+          "opacity": 20,
+          "radius": 60,
+          "x": 36,
+          "y": -29,
+          "id": 577
         },
         {
           "type": "cone",
           "color": "#bf00ff",
           "opacity": 35,
-          "radius": 387,
+          "radius": 386,
           "coneAngle": 90,
-          "rotation": -144,
-          "x": 128,
-          "y": -93,
-          "id": 431,
-          "hide": true
-        },
-        {
-          "type": "cone",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 414,
-          "coneAngle": 90,
-          "rotation": 35,
-          "x": 113,
-          "y": -114,
-          "id": 432,
-          "hide": true
-        },
-        {
-          "type": "cone",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 340,
-          "coneAngle": 90,
-          "rotation": -47,
-          "x": -69,
+          "rotation": -60,
+          "x": -63,
           "y": -36,
-          "id": 433,
-          "hide": true
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "",
-          "x": -87,
-          "y": 214,
-          "id": 434
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Stacks move into the boss\nLeft on hitbox\nRight slightly inside 2nd ring\n",
-          "x": 135,
-          "y": 120,
-          "id": 435
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Left spread take the cone\nmax melee left of both towers\non the next card/intercard",
-          "x": -212,
-          "y": -68,
-          "id": 436
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Right spread in front \nof right tower \n",
-          "x": 89,
-          "y": -96,
-          "id": 437
+          "id": 578
         }
       ]
     },
@@ -3268,14 +2521,14 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
+          "image": "/actor/WHM.png",
+          "name": "White Mage",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 73,
-          "y": -99,
+          "x": 46,
+          "y": -100,
           "id": 358
         },
         {
@@ -3309,14 +2562,14 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/WHM.png",
-          "name": "White Mage",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -127,
-          "y": -99,
+          "x": -108,
+          "y": -110,
           "id": 361
         },
         {
@@ -3349,14 +2602,14 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/NIN.png",
-          "name": "Ninja",
+          "image": "/actor/SCH.png",
+          "name": "Scholar",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 123,
-          "y": -96,
+          "x": 99,
+          "y": -41,
           "id": 365
         },
         {
@@ -3368,7 +2621,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "New assignments\n",
+          "text": "New assignments\nAlways spawns 2 stack 1 cone 1 spread\n",
           "x": -2,
           "y": 314,
           "id": 366
@@ -3478,7 +2731,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Stack by prio\n",
+          "text": "Stack prio\n",
           "x": -3,
           "y": -201,
           "id": 377
@@ -3514,7 +2767,7 @@
           "opacity": 35,
           "radius": 40,
           "x": 0,
-          "y": 0,
+          "y": 2,
           "id": 380,
           "positionParentId": 365,
           "pinned": false
@@ -3524,8 +2777,8 @@
           "color": "#bf00ff",
           "opacity": 35,
           "radius": 30,
-          "x": -126,
-          "y": -99,
+          "x": -111,
+          "y": -115,
           "id": 381
         },
         {
@@ -3535,8 +2788,8 @@
           "radius": 58,
           "coneAngle": 90,
           "rotation": -2,
-          "x": 1,
-          "y": -32,
+          "x": -1,
+          "y": -35,
           "id": 382,
           "positionParentId": 358,
           "pinned": false
@@ -4130,8 +3383,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -46,
-          "y": -27,
+          "x": 150,
+          "y": -73,
           "id": 394
         },
         {
@@ -4143,8 +3396,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 109,
-          "y": -114,
+          "x": 122,
+          "y": -83,
           "id": 395
         },
         {
@@ -4156,8 +3409,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -102,
-          "y": -114,
+          "x": -81,
+          "y": -91,
           "id": 396
         },
         {
@@ -4169,8 +3422,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 56,
-          "y": -18,
+          "x": 150,
+          "y": -101,
           "id": 397
         },
         {
@@ -4182,8 +3435,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -59,
-          "y": -21,
+          "x": -80,
+          "y": -61,
           "id": 398
         },
         {
@@ -4195,8 +3448,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -82,
-          "y": -38,
+          "x": 39,
+          "y": -81,
           "id": 399
         },
         {
@@ -4205,18 +3458,9 @@
           "color": "#bf00ff",
           "opacity": 35,
           "radius": 70,
-          "x": -85,
-          "y": -31,
+          "x": 33,
+          "y": -83,
           "id": 400
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 60,
-          "x": -103,
-          "y": -115,
-          "id": 401
         },
         {
           "count": 1,
@@ -4224,20 +3468,11 @@
           "color": "#bf00ff",
           "opacity": 35,
           "radius": 70,
-          "x": 82,
-          "y": -38,
+          "x": 124,
+          "y": -86,
           "id": 402,
           "positionParentId": 383,
           "pinned": false
-        },
-        {
-          "type": "circle",
-          "color": "#bf00ff",
-          "opacity": 35,
-          "radius": 60,
-          "x": 109,
-          "y": -116,
-          "id": 403
         },
         {
           "opacity": 100,
@@ -4248,8 +3483,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 41,
-          "y": -26,
+          "x": 16,
+          "y": -65,
           "id": 404
         },
         {
@@ -4261,8 +3496,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 81,
-          "y": -40,
+          "x": 17,
+          "y": -94,
           "id": 405
         },
         {
@@ -4317,6 +3552,28 @@
           "x": 4,
           "y": 148,
           "id": 553
+        },
+        {
+          "type": "cone",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 90,
+          "rotation": 2,
+          "x": -83,
+          "y": -91,
+          "id": 580
+        },
+        {
+          "type": "cone",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 319,
+          "coneAngle": 90,
+          "rotation": 180,
+          "x": -82,
+          "y": -64,
+          "id": 581
         }
       ]
     },
@@ -4334,8 +3591,7 @@
           "ring": "dir",
           "x": 0,
           "y": 0,
-          "id": 255,
-          "hide": true
+          "id": 409
         },
         {
           "opacity": 100,
@@ -4349,8 +3605,7 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 256,
-          "hide": true
+          "id": 410
         },
         {
           "type": "tower",
@@ -4360,8 +3615,7 @@
           "count": 1,
           "x": -80,
           "y": -80,
-          "id": 257,
-          "hide": true
+          "id": 411
         },
         {
           "opacity": 100,
@@ -4375,8 +3629,7 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 258,
-          "hide": true
+          "id": 412
         },
         {
           "opacity": 100,
@@ -4390,8 +3643,7 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 259,
-          "hide": true
+          "id": 413
         },
         {
           "opacity": 100,
@@ -4405,8 +3657,7 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 260,
-          "hide": true
+          "id": 414
         },
         {
           "opacity": 100,
@@ -4420,8 +3671,7 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 261,
-          "hide": true
+          "id": 415
         },
         {
           "opacity": 100,
@@ -4435,8 +3685,7 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 262,
-          "hide": true
+          "id": 416
         },
         {
           "opacity": 100,
@@ -4450,8 +3699,7 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 263,
-          "hide": true
+          "id": 417
         },
         {
           "opacity": 100,
@@ -4465,31 +3713,44 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 264,
-          "hide": true
+          "id": 418
         },
         {
           "type": "tower",
           "color": "#bae3ff",
           "opacity": 35,
-          "radius": 298,
+          "radius": 55,
           "count": 1,
-          "x": 0,
-          "y": 0,
-          "id": 265
+          "x": 80,
+          "y": -80,
+          "id": 419,
+          "pinned": true
         },
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
+          "image": "/actor/NIN.png",
+          "name": "Ninja",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -125,
+          "x": -126,
           "y": 0,
-          "id": 266,
+          "id": 420
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 114,
+          "y": -115,
+          "id": 421,
           "hide": true
         },
         {
@@ -4498,26 +3759,12 @@
           "image": "/actor/DRG.png",
           "name": "Dragoon",
           "status": [],
-          "width": 64,
-          "height": 64,
-          "rotation": 0,
-          "x": 204,
-          "y": -201,
-          "id": 267
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/PLD.png",
-          "name": "Paladin",
-          "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -26,
-          "y": 49,
-          "id": 268,
-          "hide": true
+          "x": -60,
+          "y": 71,
+          "id": 422
         },
         {
           "opacity": 100,
@@ -4528,10 +3775,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 64,
-          "y": 11,
-          "id": 269,
-          "hide": true
+          "x": 70,
+          "y": 71,
+          "id": 423
         },
         {
           "opacity": 100,
@@ -4544,7 +3790,7 @@
           "rotation": 0,
           "x": -127,
           "y": -99,
-          "id": 270,
+          "id": 424,
           "hide": true
         },
         {
@@ -4558,22 +3804,31 @@
           "rotation": 0,
           "x": -70,
           "y": -37,
-          "id": 271,
+          "id": 425,
+          "hide": true
+        },
+        {
+          "type": "circle",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 60,
+          "x": -124,
+          "y": -98,
+          "id": 426,
           "hide": true
         },
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/SCH.png",
-          "name": "Scholar",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 15,
-          "y": -76,
-          "id": 273,
-          "hide": true
+          "x": 44,
+          "y": -26,
+          "id": 427
         },
         {
           "opacity": 100,
@@ -4581,12 +3836,13 @@
           "image": "/actor/NIN.png",
           "name": "Ninja",
           "status": [],
-          "width": 64,
-          "height": 64,
+          "width": 32,
+          "height": 32,
           "rotation": 0,
-          "x": 257,
-          "y": -146,
-          "id": 274
+          "x": 123,
+          "y": -96,
+          "id": 428,
+          "hide": true
         },
         {
           "stroke": "#40352c",
@@ -4597,10 +3853,10 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Double cone positioning",
+          "text": "Even sets baits explained",
           "x": 0,
           "y": 328,
-          "id": 275
+          "id": 429
         },
         {
           "stroke": "#40352c",
@@ -4614,7 +3870,43 @@
           "text": "",
           "x": -205,
           "y": -22,
-          "id": 276
+          "id": 430
+        },
+        {
+          "type": "cone",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 387,
+          "coneAngle": 90,
+          "rotation": -144,
+          "x": 128,
+          "y": -93,
+          "id": 431,
+          "hide": true
+        },
+        {
+          "type": "cone",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 414,
+          "coneAngle": 90,
+          "rotation": 35,
+          "x": 113,
+          "y": -114,
+          "id": 432,
+          "hide": true
+        },
+        {
+          "type": "cone",
+          "color": "#bf00ff",
+          "opacity": 35,
+          "radius": 340,
+          "coneAngle": 90,
+          "rotation": -47,
+          "x": -69,
+          "y": -36,
+          "id": 433,
+          "hide": true
         },
         {
           "stroke": "#40352c",
@@ -4628,7 +3920,7 @@
           "text": "",
           "x": -87,
           "y": 214,
-          "id": 280
+          "id": 434
         },
         {
           "stroke": "#40352c",
@@ -4639,24 +3931,10 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Middle cone stand straight out\nRight cone hug them from the right ",
-          "x": 179,
-          "y": -332,
-          "id": 281
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_huge.png",
-          "name": "",
-          "color": "#ff0000",
-          "opacity": 65,
-          "radius": 600,
-          "status": [],
-          "rotation": 0,
-          "ring": "none",
-          "x": -525,
-          "y": 525,
-          "id": 284
+          "text": "",
+          "x": 159,
+          "y": 72,
+          "id": 435
         },
         {
           "stroke": "#40352c",
@@ -4667,23 +3945,10 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Its more important that both are all the way\nat the edge of the tower than how close you are",
-          "x": 6,
-          "y": -27,
-          "id": 554
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/SCH.png",
-          "name": "Scholar",
-          "status": [],
-          "width": 64,
-          "height": 64,
-          "rotation": 0,
-          "x": -168,
-          "y": 282,
-          "id": 560
+          "text": "max melee left of both towers\non the next card/intercard",
+          "x": -229,
+          "y": -65,
+          "id": 436
         },
         {
           "stroke": "#40352c",
@@ -4694,10 +3959,24 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Clone bait infront of tower\nslighty right ",
-          "x": -161,
-          "y": 218,
-          "id": 561
+          "text": "Infron of tower \nSlightly right",
+          "x": 172,
+          "y": -57,
+          "id": 437
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "On hitbox \n",
+          "stroke": "#40352c",
+          "x": 4,
+          "y": 90,
+          "id": 579
         }
       ]
     },
@@ -4876,14 +4155,14 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/WHM.png",
-          "name": "White Mage",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
           "status": [],
           "width": 64,
           "height": 64,
           "rotation": 0,
-          "x": -195,
-          "y": -192,
+          "x": -190,
+          "y": -188,
           "id": 451
         },
         {
@@ -4965,8 +4244,8 @@
           "width": 64,
           "height": 64,
           "rotation": 0,
-          "x": 135,
-          "y": 239,
+          "x": 134,
+          "y": 240,
           "id": 457
         },
         {
@@ -5048,9 +4327,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Middle spread straight out",
-          "x": -222,
-          "y": -310,
+          "text": "Left spread straight out",
+          "x": -252,
+          "y": -243,
           "id": 463
         }
       ]
