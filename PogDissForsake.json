@@ -1,5 +1,5 @@
 {
-  "nextId": 560,
+  "nextId": 562,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -4639,7 +4639,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Middle cone stand straight out\nRight cone hug them close from the right ",
+          "text": "Middle cone stand straight out\nRight cone hug them from the right ",
           "x": 179,
           "y": -332,
           "id": 281
@@ -4671,6 +4671,33 @@
           "x": 6,
           "y": -27,
           "id": 554
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/SCH.png",
+          "name": "Scholar",
+          "status": [],
+          "width": 64,
+          "height": 64,
+          "rotation": 0,
+          "x": -168,
+          "y": 282,
+          "id": 560
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Clone bait infront of tower\nslighty right ",
+          "x": -161,
+          "y": 218,
+          "id": 561
         }
       ]
     },
