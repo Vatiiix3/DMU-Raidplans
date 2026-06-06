@@ -1,5 +1,5 @@
 {
-  "nextId": 592,
+  "nextId": 597,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -579,7 +579,7 @@
           "color": "#00d5e8",
           "opacity": 100,
           "rotation": 0,
-          "text": "Left tower \nLeft cone",
+          "text": "Left tower\nLeft cone",
           "x": -229,
           "y": -240,
           "id": 547
@@ -1584,6 +1584,76 @@
           "x": -78,
           "y": -71,
           "id": 565
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "M",
+          "stroke": "#40352c",
+          "x": -60,
+          "y": -60,
+          "id": 592
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "R",
+          "stroke": "#40352c",
+          "x": -63,
+          "y": -100,
+          "id": 593
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "",
+          "stroke": "#40352c",
+          "x": 1,
+          "y": -69,
+          "id": 594
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "",
+          "stroke": "#40352c",
+          "x": 2,
+          "y": -90,
+          "id": 595
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "M",
+          "stroke": "#40352c",
+          "x": 166,
+          "y": -64,
+          "id": 596
         }
       ]
     },
