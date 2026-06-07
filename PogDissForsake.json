@@ -1,5 +1,5 @@
 {
-  "nextId": 597,
+  "nextId": 619,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -82,8 +82,8 @@
           "radius": 80,
           "coneAngle": 90,
           "rotation": 0,
-          "x": -340,
-          "y": -181,
+          "x": -341,
+          "y": -191,
           "id": 497
         },
         {
@@ -440,8 +440,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "Soak Left",
-          "x": -228,
-          "y": -150,
+          "x": -233,
+          "y": -231,
           "id": 537
         },
         {
@@ -454,8 +454,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "Left tower\n2nd ring left",
-          "x": -109,
-          "y": -150,
+          "x": -114,
+          "y": -231,
           "id": 538
         },
         {
@@ -468,8 +468,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "get new\nAssignement",
-          "x": 40,
-          "y": -150,
+          "x": 35,
+          "y": -231,
           "id": 539
         },
         {
@@ -482,8 +482,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "bait clones",
-          "x": 189,
-          "y": -150,
+          "x": 184,
+          "y": -231,
           "id": 540
         },
         {
@@ -496,8 +496,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "start of new\nAssignement",
-          "x": 324,
-          "y": -150,
+          "x": 319,
+          "y": -231,
           "id": 541
         },
         {
@@ -580,8 +580,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "Left tower\nLeft cone",
-          "x": -229,
-          "y": -240,
+          "x": -230,
+          "y": -131,
           "id": 547
         },
         {
@@ -594,8 +594,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "get new\nAssignement",
-          "x": -110,
-          "y": -240,
+          "x": -111,
+          "y": -131,
           "id": 548
         },
         {
@@ -608,8 +608,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "boss clone\nunder boss left",
-          "x": 39,
-          "y": -240,
+          "x": 38,
+          "y": -131,
           "id": 549
         },
         {
@@ -622,8 +622,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "bait clones",
-          "x": 188,
-          "y": -240,
+          "x": 187,
+          "y": -131,
           "id": 550
         },
         {
@@ -636,8 +636,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "start of new\nAssignement",
-          "x": 323,
-          "y": -240,
+          "x": 322,
+          "y": -131,
           "id": 551
         },
         {
@@ -1404,8 +1404,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 17,
-          "y": -91,
+          "x": 18,
+          "y": -90,
           "id": 96
         },
         {
@@ -1417,7 +1417,7 @@
           "width": 32,
           "height": 32,
           "rotation": 2,
-          "x": 145,
+          "x": 147,
           "y": -89,
           "id": 97
         },
@@ -1430,8 +1430,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 43,
-          "y": -77,
+          "x": 42,
+          "y": -80,
           "id": 98
         },
         {
@@ -1456,15 +1456,15 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 147,
-          "y": -64,
+          "x": 149,
+          "y": -63,
           "id": 100
         },
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -1498,8 +1498,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/DRG.png",
+          "name": "Dragoon",
           "status": [],
           "width": 32,
           "height": 32,
@@ -1586,60 +1586,115 @@
           "id": 565
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
-          "text": "M",
-          "stroke": "#40352c",
-          "x": -60,
+          "text": "L",
+          "x": -62,
           "y": -60,
           "id": 592
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "R",
-          "stroke": "#40352c",
-          "x": -63,
+          "x": -61,
           "y": -100,
           "id": 593
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "",
-          "stroke": "#40352c",
           "x": 1,
           "y": -69,
           "id": 594
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "",
-          "stroke": "#40352c",
           "x": 2,
           "y": -90,
           "id": 595
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "M◯",
+          "x": 150,
+          "y": -42,
+          "id": 596
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "M►",
+          "x": 21,
+          "y": -44,
+          "id": 597
+        },
+        {
+          "type": "arrow",
+          "color": "#ffffff",
+          "opacity": 100,
+          "width": 20,
+          "length": 56,
+          "rotation": -40,
+          "x": -106,
+          "y": -131,
+          "id": 613,
+          "arrowEnd": true,
+          "arrowBegin": true
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 50,
+          "text": "Looking from Tower to Boss\nLeft / Right Cone",
+          "x": -148,
+          "y": -142,
+          "id": 614
         },
         {
           "type": "text",
@@ -1649,11 +1704,25 @@
           "opacity": 100,
           "style": "outline",
           "rotation": 0,
-          "text": "M",
+          "text": "L◯",
           "stroke": "#40352c",
-          "x": 166,
-          "y": -64,
-          "id": 596
+          "x": 19,
+          "y": -109,
+          "id": 617
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "R◯",
+          "stroke": "#40352c",
+          "x": 154,
+          "y": -109,
+          "id": 618
         }
       ]
     },
@@ -1809,8 +1878,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -2219,14 +2288,14 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/DRG.png",
+          "name": "Dragoon",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
           "x": -63,
-          "y": -36,
+          "y": -35,
           "id": 236
         },
         {
@@ -2271,8 +2340,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -2312,7 +2381,7 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -125,
+          "x": -123,
           "y": -1,
           "id": 246
         },
@@ -2422,6 +2491,140 @@
           "x": -63,
           "y": -36,
           "id": 578
+        },
+        {
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 17,
+          "count": 1,
+          "x": -68,
+          "y": 81,
+          "id": 598
+        },
+        {
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 17,
+          "count": 1,
+          "x": 47,
+          "y": 74,
+          "id": 599,
+          "positionParentId": 224,
+          "pinned": false
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "R►",
+          "stroke": "#40352c",
+          "x": 45,
+          "y": -8,
+          "id": 605
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "L",
+          "stroke": "#40352c",
+          "x": -67,
+          "y": 81,
+          "id": 606
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "R",
+          "stroke": "#40352c",
+          "x": 48,
+          "y": 81,
+          "id": 607
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "M◯",
+          "stroke": "#40352c",
+          "x": 52,
+          "y": -87,
+          "id": 608
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "R◯",
+          "stroke": "#40352c",
+          "x": 120,
+          "y": -30,
+          "id": 609
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "L◯",
+          "stroke": "#40352c",
+          "x": -96,
+          "y": -98,
+          "id": 610
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "L►",
+          "stroke": "#40352c",
+          "x": -135,
+          "y": 13,
+          "id": 615
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "M►",
+          "stroke": "#40352c",
+          "x": -61,
+          "y": -16,
+          "id": 616
         }
       ]
     },
@@ -2645,8 +2848,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/DRG.png",
+          "name": "Dragoon",
           "status": [],
           "width": 32,
           "height": 32,
@@ -3512,8 +3715,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/DRG.png",
+          "name": "Dragoon",
           "status": [],
           "width": 32,
           "height": 32,
@@ -3547,8 +3750,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -3826,8 +4029,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/DRG.png",
-          "name": "Dragoon",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -4029,21 +4232,21 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Infron of tower \nSlightly right",
+          "text": "Infront of tower \nSlightly right",
           "x": 172,
           "y": -57,
           "id": 437
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "On hitbox \n",
-          "stroke": "#40352c",
           "x": 4,
           "y": 90,
           "id": 579
@@ -4308,8 +4511,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/DRG.png",
+          "name": "Dragoon",
           "status": [],
           "width": 64,
           "height": 64,
