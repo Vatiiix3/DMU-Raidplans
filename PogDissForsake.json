@@ -1,5 +1,5 @@
 {
-  "nextId": 621,
+  "nextId": 657,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -1274,7 +1274,8 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 86
+          "id": 86,
+          "hide": true
         },
         {
           "type": "tower",
@@ -1298,7 +1299,8 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 88
+          "id": 88,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1312,7 +1314,8 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 89
+          "id": 89,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1326,7 +1329,8 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 90
+          "id": 90,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1340,7 +1344,8 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 91
+          "id": 91,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1354,7 +1359,8 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 92
+          "id": 92,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1368,7 +1374,8 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 93
+          "id": 93,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1382,7 +1389,8 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 94
+          "id": 94,
+          "hide": true
         },
         {
           "type": "tower",
@@ -1670,33 +1678,6 @@
           "id": 597
         },
         {
-          "type": "arrow",
-          "color": "#ffffff",
-          "opacity": 100,
-          "width": 20,
-          "length": 56,
-          "rotation": -40,
-          "x": -106,
-          "y": -131,
-          "id": 613,
-          "arrowEnd": true,
-          "arrowBegin": true
-        },
-        {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 50,
-          "text": "Looking from Tower to Boss\nLeft / Right Cone",
-          "x": -148,
-          "y": -142,
-          "id": 614
-        },
-        {
           "stroke": "#40352c",
           "style": "outline",
           "type": "text",
@@ -1782,7 +1763,8 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 132
+          "id": 132,
+          "hide": true
         },
         {
           "type": "tower",
@@ -1806,7 +1788,8 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 134
+          "id": 134,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1820,7 +1803,8 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 135
+          "id": 135,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1834,7 +1818,8 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 136
+          "id": 136,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1848,7 +1833,8 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 137
+          "id": 137,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1862,7 +1848,8 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 138
+          "id": 138,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1876,7 +1863,8 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 139
+          "id": 139,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -1890,7 +1878,8 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 140
+          "id": 140,
+          "hide": true
         },
         {
           "type": "tower",
@@ -2179,7 +2168,8 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 225
+          "id": 225,
+          "hide": true
         },
         {
           "type": "tower",
@@ -2203,7 +2193,8 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 227
+          "id": 227,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2217,7 +2208,8 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 228
+          "id": 228,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2231,7 +2223,8 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 229
+          "id": 229,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2245,7 +2238,8 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 230
+          "id": 230,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2259,7 +2253,8 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 231
+          "id": 231,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2273,7 +2268,8 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 232
+          "id": 232,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2287,7 +2283,8 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 233
+          "id": 233,
+          "hide": true
         },
         {
           "type": "tower",
@@ -2684,7 +2681,8 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 347
+          "id": 347,
+          "hide": true
         },
         {
           "type": "tower",
@@ -2708,7 +2706,8 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 349
+          "id": 349,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2722,7 +2721,8 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 350
+          "id": 350,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2736,7 +2736,8 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 351
+          "id": 351,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2750,7 +2751,8 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 352
+          "id": 352,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2764,7 +2766,8 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 353
+          "id": 353,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2778,7 +2781,8 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 354
+          "id": 354,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -2792,7 +2796,8 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 355
+          "id": 355,
+          "hide": true
         },
         {
           "type": "tower",
@@ -3125,7 +3130,8 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 311
+          "id": 311,
+          "hide": true
         },
         {
           "type": "tower",
@@ -3149,7 +3155,8 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 313
+          "id": 313,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3163,7 +3170,8 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 314
+          "id": 314,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3177,7 +3185,8 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 315
+          "id": 315,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3191,7 +3200,8 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 316
+          "id": 316,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3205,7 +3215,8 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 317
+          "id": 317,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3219,7 +3230,8 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 318
+          "id": 318,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3233,7 +3245,8 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 319
+          "id": 319,
+          "hide": true
         },
         {
           "type": "tower",
@@ -3554,7 +3567,8 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 384
+          "id": 384,
+          "hide": true
         },
         {
           "type": "tower",
@@ -3578,7 +3592,8 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 386
+          "id": 386,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3592,7 +3607,8 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 387
+          "id": 387,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3606,7 +3622,8 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 388
+          "id": 388,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3620,7 +3637,8 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 389
+          "id": 389,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3634,7 +3652,8 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 390
+          "id": 390,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3648,7 +3667,8 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 391
+          "id": 391,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3662,7 +3682,8 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 392
+          "id": 392,
+          "hide": true
         },
         {
           "type": "tower",
@@ -3906,7 +3927,8 @@
           "rotation": 0,
           "x": 0,
           "y": 125,
-          "id": 410
+          "id": 410,
+          "hide": true
         },
         {
           "type": "tower",
@@ -3930,7 +3952,8 @@
           "rotation": 0,
           "x": -88,
           "y": 88,
-          "id": 412
+          "id": 412,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3944,7 +3967,8 @@
           "rotation": 0,
           "x": 88,
           "y": 88,
-          "id": 413
+          "id": 413,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3958,7 +3982,8 @@
           "rotation": 0,
           "x": 125,
           "y": 0,
-          "id": 414
+          "id": 414,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3972,7 +3997,8 @@
           "rotation": 0,
           "x": 0,
           "y": -125,
-          "id": 415
+          "id": 415,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -3986,7 +4012,8 @@
           "rotation": 0,
           "x": -125,
           "y": 0,
-          "id": 416
+          "id": 416,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -4000,7 +4027,8 @@
           "rotation": 0,
           "x": 88,
           "y": -88,
-          "id": 417
+          "id": 417,
+          "hide": true
         },
         {
           "opacity": 100,
@@ -4014,7 +4042,8 @@
           "rotation": 0,
           "x": -88,
           "y": -88,
-          "id": 418
+          "id": 418,
+          "hide": true
         },
         {
           "type": "tower",
