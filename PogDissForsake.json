@@ -4139,7 +4139,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "boss clone\ninfront of tower",
+          "text": "boss clone\nunder boss left",
           "x": 42,
           "y": 350,
           "id": 513
@@ -4419,7 +4419,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Bait cone\nmax melee",
+          "text": "boss clone\ninfront of tower",
           "x": 35,
           "y": -330,
           "id": 544
@@ -4489,7 +4489,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "boss clone\nunder boss left",
+          "text": "Bait cone\nmax melee",
           "x": 38,
           "y": -131,
           "id": 549
@@ -4644,8 +4644,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "bait clones",
-          "x": 191,
-          "y": -52,
+          "x": 187,
+          "y": -48,
           "id": 590
         },
         {
