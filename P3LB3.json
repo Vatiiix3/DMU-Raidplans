@@ -288,7 +288,7 @@
           "opacity": 65,
           "radius": 80,
           "status": [],
-          "rotation": 0,
+          "rotation": 45,
           "ring": "dir",
           "x": -1,
           "y": -1,
@@ -350,7 +350,7 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -77,
+          "x": 86,
           "y": 83,
           "id": 138
         },
@@ -363,8 +363,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 82,
-          "y": 86,
+          "x": -79,
+          "y": 79,
           "id": 139
         },
         {
@@ -534,7 +534,7 @@
           "opacity": 65,
           "radius": 80,
           "status": [],
-          "rotation": -45,
+          "rotation": 45,
           "ring": "dir",
           "x": -1,
           "y": -1,
@@ -596,8 +596,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -77,
-          "y": 83,
+          "x": 86,
+          "y": 90,
           "id": 166
         },
         {
@@ -609,8 +609,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
-          "y": 105,
+          "x": -116,
+          "y": 5,
           "id": 167
         },
         {
@@ -714,27 +714,27 @@
           "id": 177
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "",
-          "stroke": "#40352c",
           "x": -54,
           "y": -122,
           "id": 178
         },
         {
+          "opacity": 100,
           "type": "party",
           "image": "/actor/tank.png",
           "name": "Tank",
           "status": [],
           "width": 32,
           "height": 32,
-          "opacity": 100,
           "rotation": 0,
           "x": -6,
           "y": -212,
@@ -752,7 +752,7 @@
           "opacity": 65,
           "radius": 80,
           "status": [],
-          "rotation": -45,
+          "rotation": 45,
           "ring": "dir",
           "x": -1,
           "y": -1,
@@ -766,7 +766,7 @@
           "opacity": 65,
           "radius": 55,
           "status": [],
-          "rotation": -42,
+          "rotation": 45,
           "ring": "dir",
           "x": -1,
           "y": -4,
@@ -805,8 +805,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -77,
-          "y": 83,
+          "x": 77,
+          "y": 79,
           "id": 77
         },
         {
@@ -818,8 +818,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
-          "y": 105,
+          "x": -79,
+          "y": 83,
           "id": 78
         },
         {
@@ -1368,15 +1368,15 @@
           "id": 131
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "pull exdeath south again",
-          "stroke": "#40352c",
           "x": 3,
           "y": -271,
           "id": 180
