@@ -1,5 +1,5 @@
 {
-  "nextId": 226,
+  "nextId": 227,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -968,6 +968,20 @@
           "x": -3,
           "y": -165,
           "id": 179
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Pull chaos south asap after \ndefam/first elements",
+          "stroke": "#40352c",
+          "x": 155,
+          "y": -74,
+          "id": 226
         }
       ]
     },
