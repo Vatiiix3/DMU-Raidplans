@@ -1,5 +1,5 @@
 {
-  "nextId": 90,
+  "nextId": 161,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -68,15 +68,6 @@
           "id": 28
         },
         {
-          "type": "circle",
-          "color": "#8b57fa",
-          "opacity": 35,
-          "radius": 259,
-          "x": -2,
-          "y": -220,
-          "id": 29
-        },
-        {
           "type": "party",
           "image": "/actor/tank.png",
           "name": "Tank",
@@ -85,8 +76,8 @@
           "height": 32,
           "opacity": 100,
           "rotation": 0,
-          "x": -77,
-          "y": 83,
+          "x": -3,
+          "y": -276,
           "id": 30
         },
         {
@@ -98,8 +89,8 @@
           "height": 32,
           "opacity": 100,
           "rotation": 0,
-          "x": 82,
-          "y": 86,
+          "x": 17,
+          "y": 104,
           "id": 31
         },
         {
@@ -111,8 +102,8 @@
           "height": 32,
           "opacity": 100,
           "rotation": 0,
-          "x": 211,
-          "y": 202,
+          "x": 204,
+          "y": 205,
           "id": 32
         },
         {
@@ -189,13 +180,287 @@
           "hide": true
         },
         {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Green is new north\nBlue/Red can be mirrored",
+          "stroke": "#40352c",
+          "x": 3,
+          "y": 331,
+          "id": 68
+        },
+        {
+          "type": "party",
+          "image": "/actor/tank.png",
+          "name": "Tank",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -1,
+          "y": 108,
+          "id": 155
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Exdeath tank south",
+          "stroke": "#40352c",
+          "x": -5,
+          "y": -232,
+          "id": 156
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Healers on Red",
+          "stroke": "#40352c",
+          "x": -263,
+          "y": 71,
+          "id": 157
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Caster on Blue",
+          "stroke": "#40352c",
+          "x": 269,
+          "y": 58,
+          "id": 158
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Pranged on intercard north of blue",
+          "stroke": "#40352c",
+          "x": 229,
+          "y": 238,
+          "id": 159
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "",
+          "stroke": "#40352c",
+          "x": -11,
+          "y": 138,
+          "id": 160
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 80,
+          "status": [],
+          "rotation": 0,
+          "ring": "dir",
+          "x": -1,
+          "y": -1,
+          "id": 133
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 55,
+          "status": [],
+          "rotation": 180,
+          "ring": "dir",
+          "x": -3,
+          "y": -212,
+          "id": 134
+        },
+        {
+          "type": "icon",
+          "image": "/marker/eden/orange.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Orange marker",
+          "x": -262,
+          "y": 0,
+          "id": 135
+        },
+        {
+          "type": "icon",
+          "image": "/marker/eden/blue.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Blue marker",
+          "x": 276,
+          "y": 3,
+          "id": 136
+        },
+        {
+          "type": "circle",
+          "color": "#8b57fa",
+          "opacity": 35,
+          "radius": 259,
+          "x": -2,
+          "y": -220,
+          "id": 137
+        },
+        {
+          "type": "party",
+          "image": "/actor/tank.png",
+          "name": "Tank",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -77,
+          "y": 83,
+          "id": 138
+        },
+        {
+          "type": "party",
+          "image": "/actor/melee.png",
+          "name": "Melee DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 82,
+          "y": 86,
+          "id": 139
+        },
+        {
+          "type": "party",
+          "image": "/actor/physical_ranged.png",
+          "name": "Physical Ranged DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 211,
+          "y": 202,
+          "id": 140
+        },
+        {
+          "type": "party",
+          "image": "/actor/WHM.png",
+          "name": "White Mage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -267,
+          "y": 29,
+          "id": 141
+        },
+        {
+          "type": "party",
+          "image": "/actor/SCH.png",
+          "name": "Scholar",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -273,
+          "y": 35,
+          "id": 142
+        },
+        {
+          "type": "party",
+          "image": "/actor/magic_ranged.png",
+          "name": "Magic Ranged DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 261,
+          "y": 23,
+          "id": 143
+        },
+        {
+          "type": "icon",
+          "image": "/marker/target_green.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Target",
+          "x": -1,
+          "y": 257,
+          "id": 144
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 211,
+          "y": 203,
+          "id": 145,
+          "hide": true
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 260,
+          "y": 23,
+          "id": 146,
+          "hide": true
+        },
+        {
           "type": "circle",
           "color": "#ff0000",
           "opacity": 35,
           "radius": 66,
           "x": 211,
           "y": 204,
-          "id": 40
+          "id": 147
         },
         {
           "type": "circle",
@@ -204,7 +469,7 @@
           "radius": 66,
           "x": 264,
           "y": 24,
-          "id": 41
+          "id": 148
         },
         {
           "type": "circle",
@@ -213,7 +478,7 @@
           "radius": 66,
           "x": -77,
           "y": 85,
-          "id": 42
+          "id": 149
         },
         {
           "type": "donut",
@@ -223,7 +488,7 @@
           "radius": 150,
           "x": -267,
           "y": 30,
-          "id": 43
+          "id": 150
         },
         {
           "type": "circle",
@@ -232,7 +497,7 @@
           "radius": 66,
           "x": -267,
           "y": 31,
-          "id": 44
+          "id": 151
         },
         {
           "type": "circle",
@@ -241,7 +506,7 @@
           "radius": 66,
           "x": 82,
           "y": 85,
-          "id": 45
+          "id": 152
         },
         {
           "type": "text",
@@ -255,7 +520,7 @@
           "stroke": "#40352c",
           "x": -7,
           "y": 326,
-          "id": 68
+          "id": 153
         }
       ]
     },
@@ -696,6 +961,474 @@
           "x": 11,
           "y": 314,
           "id": 88
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 80,
+          "status": [],
+          "rotation": 0,
+          "ring": "dir",
+          "x": 0,
+          "y": 165,
+          "id": 90
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 55,
+          "status": [],
+          "rotation": 180,
+          "ring": "dir",
+          "x": -3,
+          "y": -212,
+          "id": 91
+        },
+        {
+          "type": "icon",
+          "image": "/marker/eden/orange.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Orange marker",
+          "x": -262,
+          "y": 0,
+          "id": 92
+        },
+        {
+          "type": "icon",
+          "image": "/marker/eden/blue.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Blue marker",
+          "x": 276,
+          "y": 3,
+          "id": 93
+        },
+        {
+          "type": "party",
+          "image": "/actor/tank.png",
+          "name": "Tank",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -143,
+          "y": -193,
+          "id": 95
+        },
+        {
+          "type": "party",
+          "image": "/actor/melee.png",
+          "name": "Melee DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 118,
+          "y": -192,
+          "id": 96
+        },
+        {
+          "type": "party",
+          "image": "/actor/physical_ranged.png",
+          "name": "Physical Ranged DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -3,
+          "y": 272,
+          "id": 97
+        },
+        {
+          "type": "party",
+          "image": "/actor/WHM.png",
+          "name": "White Mage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -71,
+          "y": -107,
+          "id": 98
+        },
+        {
+          "type": "party",
+          "image": "/actor/SCH.png",
+          "name": "Scholar",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -60,
+          "y": -127,
+          "id": 99
+        },
+        {
+          "type": "party",
+          "image": "/actor/magic_ranged.png",
+          "name": "Magic Ranged DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 60,
+          "y": -112,
+          "id": 100
+        },
+        {
+          "type": "icon",
+          "image": "/marker/target_green.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Target",
+          "x": -1,
+          "y": 257,
+          "id": 101
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 211,
+          "y": 203,
+          "id": 102,
+          "hide": true
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 260,
+          "y": 23,
+          "id": 103,
+          "hide": true
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Prange bait jump",
+          "stroke": "#40352c",
+          "x": 11,
+          "y": 314,
+          "id": 106
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 335,
+          "x": -4,
+          "y": 274,
+          "id": 107
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Rest move in, Healer+Caster can stay their side",
+          "stroke": "#40352c",
+          "x": 17,
+          "y": -68,
+          "id": 131
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 80,
+          "status": [],
+          "rotation": 0,
+          "ring": "dir",
+          "x": 0,
+          "y": 165,
+          "id": 108
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 55,
+          "status": [],
+          "rotation": 180,
+          "ring": "dir",
+          "x": -3,
+          "y": -212,
+          "id": 109
+        },
+        {
+          "type": "icon",
+          "image": "/marker/eden/orange.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Orange marker",
+          "x": -262,
+          "y": 0,
+          "id": 110
+        },
+        {
+          "type": "icon",
+          "image": "/marker/eden/blue.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Blue marker",
+          "x": 276,
+          "y": 3,
+          "id": 111
+        },
+        {
+          "type": "party",
+          "image": "/actor/tank.png",
+          "name": "Tank",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -86,
+          "y": -197,
+          "id": 112
+        },
+        {
+          "type": "party",
+          "image": "/actor/melee.png",
+          "name": "Melee DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 98,
+          "y": -211,
+          "id": 113
+        },
+        {
+          "type": "party",
+          "image": "/actor/physical_ranged.png",
+          "name": "Physical Ranged DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 108,
+          "y": -74,
+          "id": 114
+        },
+        {
+          "type": "party",
+          "image": "/actor/WHM.png",
+          "name": "White Mage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -81,
+          "y": -96,
+          "id": 115
+        },
+        {
+          "type": "party",
+          "image": "/actor/SCH.png",
+          "name": "Scholar",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -84,
+          "y": -87,
+          "id": 116
+        },
+        {
+          "type": "party",
+          "image": "/actor/magic_ranged.png",
+          "name": "Magic Ranged DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 98,
+          "y": -88,
+          "id": 117
+        },
+        {
+          "type": "icon",
+          "image": "/marker/target_green.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Target",
+          "x": 2,
+          "y": 271,
+          "id": 118
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 211,
+          "y": 203,
+          "id": 119,
+          "hide": true
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 260,
+          "y": 23,
+          "id": 120,
+          "hide": true
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "TANK LB3",
+          "stroke": "#40352c",
+          "x": -5,
+          "y": 328,
+          "id": 121
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 335,
+          "x": -4,
+          "y": 274,
+          "id": 122
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -92,
+          "y": -199,
+          "id": 123
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -79,
+          "y": -98,
+          "id": 124
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 98,
+          "y": -85,
+          "id": 125
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 105,
+          "y": -212,
+          "id": 126
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 90,
+          "y": -209,
+          "id": 127
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 98,
+          "y": -88,
+          "id": 128
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -81,
+          "y": -89,
+          "id": 129
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -81,
+          "y": -198,
+          "id": 130
         }
       ]
     }
