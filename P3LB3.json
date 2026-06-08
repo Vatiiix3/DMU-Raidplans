@@ -1,5 +1,5 @@
 {
-  "nextId": 228,
+  "nextId": 229,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -517,7 +517,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Fire = Melee spread",
+          "text": "Short Fire = Melee spread",
           "x": -7,
           "y": 326,
           "id": 153
@@ -716,7 +716,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Water = Melee stack",
+          "text": "Short Water = Melee stack",
           "x": -7,
           "y": 326,
           "id": 201
@@ -1253,7 +1253,7 @@
           "height": 32,
           "rotation": 0,
           "x": -3,
-          "y": -26,
+          "y": -9,
           "id": 9
         },
         {
@@ -1339,8 +1339,8 @@
           "opacity": 35,
           "innerRadius": 50,
           "radius": 150,
-          "x": -2,
-          "y": -37,
+          "x": -3,
+          "y": -11,
           "id": 17
         },
         {
@@ -1400,7 +1400,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Water = melees stack",
+          "text": "Long debuffs",
           "x": -11,
           "y": 325,
           "id": 69
@@ -1493,8 +1493,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -77,
-          "y": -208,
+          "x": -91,
+          "y": -219,
           "id": 210
         },
         {
@@ -1590,26 +1590,12 @@
           "id": 220
         },
         {
-          "stroke": "#40352c",
-          "style": "outline",
-          "type": "text",
-          "align": "center",
-          "fontSize": 25,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Water = melees stack",
-          "x": -11,
-          "y": 325,
-          "id": 222
-        },
-        {
           "type": "circle",
           "color": "#ff0000",
           "opacity": 35,
           "radius": 66,
-          "x": -79,
-          "y": -206,
+          "x": -90,
+          "y": -220,
           "id": 223
         },
         {
@@ -1629,6 +1615,20 @@
           "x": -271,
           "y": 32,
           "id": 225
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Long debuffs",
+          "x": 9,
+          "y": 324,
+          "id": 228
         }
       ]
     },
