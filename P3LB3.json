@@ -1,5 +1,5 @@
 {
-  "nextId": 234,
+  "nextId": 262,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -70,8 +70,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/tank.png",
-          "name": "Tank",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
           "status": [],
           "width": 32,
           "height": 32,
@@ -196,8 +196,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/tank.png",
-          "name": "Tank",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
           "status": [],
           "width": 32,
           "height": 32,
@@ -763,7 +763,7 @@
           "opacity": 65,
           "radius": 90,
           "status": [],
-          "rotation": 90,
+          "rotation": 180,
           "ring": "dir",
           "x": -1,
           "y": -131,
@@ -777,7 +777,7 @@
           "opacity": 65,
           "radius": 80,
           "status": [],
-          "rotation": 180,
+          "rotation": 0,
           "ring": "dir",
           "x": -1,
           "y": -169,
@@ -819,14 +819,14 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/tank.png",
-          "name": "Tank",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 139,
-          "y": -128,
+          "x": 0,
+          "y": -33,
           "id": 166
         },
         {
@@ -937,9 +937,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Exdeath tank takes prox buster south",
-          "x": 11,
-          "y": 314,
+          "text": "Chaos tank takes prox buster south",
+          "x": 5,
+          "y": 329,
           "id": 177
         },
         {
@@ -959,8 +959,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/tank.png",
-          "name": "Tank",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
           "status": [],
           "width": 32,
           "height": 32,
@@ -978,10 +978,24 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Pull chaos south asap after \ndefam/first elements",
-          "x": 155,
-          "y": -74,
+          "text": "",
+          "x": 8,
+          "y": -219,
           "id": 226
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Prox buster from exdeath but taken by chaos tank",
+          "stroke": "#40352c",
+          "x": -11,
+          "y": -198,
+          "id": 261
         }
       ]
     },
@@ -995,7 +1009,7 @@
           "opacity": 65,
           "radius": 90,
           "status": [],
-          "rotation": 90,
+          "rotation": 180,
           "ring": "dir",
           "x": 5,
           "y": -106,
@@ -1695,8 +1709,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 108,
-          "y": -179,
+          "x": 84,
+          "y": -136,
           "id": 95
         },
         {
@@ -1708,8 +1722,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -119,
-          "y": -177,
+          "x": -82,
+          "y": -133,
           "id": 96
         },
         {
@@ -1734,8 +1748,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 56,
-          "y": -108,
+          "x": 36,
+          "y": -110,
           "id": 98
         },
         {
@@ -1747,8 +1761,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 48,
-          "y": -113,
+          "x": 27,
+          "y": -110,
           "id": 99
         },
         {
@@ -1760,8 +1774,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -68,
-          "y": -107,
+          "x": -27,
+          "y": -111,
           "id": 100
         },
         {
@@ -1914,8 +1928,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 91,
-          "y": -188,
+          "x": 75,
+          "y": -146,
           "id": 112
         },
         {
@@ -1927,8 +1941,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -101,
-          "y": -193,
+          "x": -82,
+          "y": -140,
           "id": 113
         },
         {
@@ -1940,8 +1954,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -87,
-          "y": -80,
+          "x": -23,
+          "y": -115,
           "id": 114
         },
         {
@@ -1953,8 +1967,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 102,
-          "y": -71,
+          "x": 34,
+          "y": -109,
           "id": 115
         },
         {
@@ -1966,8 +1980,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 92,
-          "y": -73,
+          "x": 31,
+          "y": -114,
           "id": 116
         },
         {
@@ -1979,8 +1993,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -85,
-          "y": -70,
+          "x": -38,
+          "y": -114,
           "id": 117
         },
         {
@@ -2032,84 +2046,12 @@
           "id": 121
         },
         {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": -92,
-          "y": -199,
-          "id": 123
-        },
-        {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": -80,
-          "y": -74,
-          "id": 124
-        },
-        {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": 95,
-          "y": -65,
-          "id": 125
-        },
-        {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": 100,
-          "y": -192,
-          "id": 126
-        },
-        {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": 89,
-          "y": -193,
-          "id": 127
-        },
-        {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": 89,
-          "y": -74,
-          "id": 128
-        },
-        {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": -91,
-          "y": -76,
-          "id": 129
-        },
-        {
-          "type": "circle",
-          "color": "#00e622",
-          "opacity": 35,
-          "radius": 76,
-          "x": -81,
-          "y": -198,
-          "id": 130
-        },
-        {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215905_hr1.tex?format=png",
           "width": 48,
           "height": 64,
           "rotation": 0,
-          "opacity": 100,
           "name": "Tailwind",
           "iconId": 215905,
           "maxStacks": 0,
@@ -2118,12 +2060,12 @@
           "id": 230
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215904_hr1.tex?format=png",
           "width": 48,
           "height": 68,
           "rotation": 0,
-          "opacity": 100,
           "name": "Headwind",
           "iconId": 215904,
           "maxStacks": 0,
@@ -2132,32 +2074,351 @@
           "id": 231
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "= LOOK AT BOSS",
-          "stroke": "#40352c",
           "x": 69,
           "y": 107,
           "id": 232
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "= LOOK AWAY",
-          "stroke": "#40352c",
           "x": 51,
           "y": 40,
           "id": 233
+        },
+        {
+          "type": "knockback",
+          "color": "#00e622",
+          "opacity": 60,
+          "radius": 167,
+          "x": -5,
+          "y": -215,
+          "id": 260
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "ring": "dir",
+          "x": 0,
+          "y": 165,
+          "id": 234
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ff0000",
+          "opacity": 65,
+          "radius": 55,
+          "status": [],
+          "rotation": 180,
+          "ring": "dir",
+          "x": -3,
+          "y": -212,
+          "id": 235
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "/marker/eden/orange.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Orange marker",
+          "x": -262,
+          "y": 0,
+          "id": 236
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "/marker/eden/blue.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Blue marker",
+          "x": 276,
+          "y": 3,
+          "id": 237
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/tank.png",
+          "name": "Tank",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 91,
+          "y": -188,
+          "id": 238
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/melee.png",
+          "name": "Melee DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -101,
+          "y": -193,
+          "id": 239
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/DNC.png",
+          "name": "Dancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -87,
+          "y": -80,
+          "id": 240
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/WHM.png",
+          "name": "White Mage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 102,
+          "y": -71,
+          "id": 241
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/SCH.png",
+          "name": "Scholar",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 92,
+          "y": -73,
+          "id": 242
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -85,
+          "y": -70,
+          "id": 243
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "/marker/target_green.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "name": "Target",
+          "x": 2,
+          "y": 271,
+          "id": 244
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 211,
+          "y": 203,
+          "id": 245,
+          "hide": true
+        },
+        {
+          "type": "donut",
+          "color": "#0066ff",
+          "opacity": 35,
+          "innerRadius": 50,
+          "radius": 150,
+          "x": 260,
+          "y": 23,
+          "id": 246,
+          "hide": true
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "TANK LB3",
+          "x": -5,
+          "y": 328,
+          "id": 247
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -92,
+          "y": -199,
+          "id": 248
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -80,
+          "y": -74,
+          "id": 249
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 95,
+          "y": -65,
+          "id": 250
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 100,
+          "y": -192,
+          "id": 251
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 89,
+          "y": -193,
+          "id": 252
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": 89,
+          "y": -74,
+          "id": 253
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -91,
+          "y": -76,
+          "id": 254
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 76,
+          "x": -81,
+          "y": -198,
+          "id": 255
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215905_hr1.tex?format=png",
+          "width": 48,
+          "height": 64,
+          "rotation": 0,
+          "name": "Tailwind",
+          "iconId": 215905,
+          "maxStacks": 0,
+          "x": -63,
+          "y": 107,
+          "id": 256
+        },
+        {
+          "opacity": 100,
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215904_hr1.tex?format=png",
+          "width": 48,
+          "height": 68,
+          "rotation": 0,
+          "name": "Headwind",
+          "iconId": 215904,
+          "maxStacks": 0,
+          "x": -62,
+          "y": 43,
+          "id": 257
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "= LOOK AT BOSS",
+          "x": 69,
+          "y": 107,
+          "id": 258
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "= LOOK AWAY",
+          "x": 51,
+          "y": 40,
+          "id": 259
         }
       ]
     }
