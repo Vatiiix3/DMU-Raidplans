@@ -1,5 +1,5 @@
 {
-  "nextId": 229,
+  "nextId": 234,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -2102,6 +2102,62 @@
           "x": -81,
           "y": -198,
           "id": 130
+        },
+        {
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215905_hr1.tex?format=png",
+          "width": 48,
+          "height": 64,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Tailwind",
+          "iconId": 215905,
+          "maxStacks": 0,
+          "x": -63,
+          "y": 107,
+          "id": 230
+        },
+        {
+          "type": "icon",
+          "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215904_hr1.tex?format=png",
+          "width": 48,
+          "height": 68,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Headwind",
+          "iconId": 215904,
+          "maxStacks": 0,
+          "x": -62,
+          "y": 43,
+          "id": 231
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "= LOOK AT BOSS",
+          "stroke": "#40352c",
+          "x": 69,
+          "y": 107,
+          "id": 232
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "= LOOK AWAY",
+          "stroke": "#40352c",
+          "x": 51,
+          "y": 40,
+          "id": 233
         }
       ]
     }
